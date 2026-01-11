@@ -1,5 +1,5 @@
 # Trading Account Management 📈
-
+![Trading Result](trade1.jpg)
 ![HTML](https://img.shields.io/badge/HTML-5-orange)
 ![CSS](https://img.shields.io/badge/CSS-3-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)

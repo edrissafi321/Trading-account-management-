@@ -14,3 +14,5 @@ Simple web-based trading account management system.
 ## 📦 Installation
 ```bash
 git clone https://github.com/edrissafi321/project.git
+
+![Trading Result](trade1.jpg)

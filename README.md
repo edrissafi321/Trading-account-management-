@@ -15,4 +15,17 @@ Simple web-based trading account management system.
 ```bash
 git clone https://github.com/edrissafi321/project.git
 
-![Trading Result](trade1.jpg)
+---
+
+## 🎥 Demo & Screenshots
+
+### 📸 Screenshots
+<p align="center">
+  <img src="image1.jpg" width="300">
+  <img src="image2.jpg" width="300">
+</p>
+
+### 🎬 Demo Video
+<p align="center">
+  <a href="trade1.mp4">▶ Watch Demo Video</a>
+</p>

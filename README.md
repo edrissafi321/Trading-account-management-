@@ -5,7 +5,9 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 Simple web-based trading account management system.
+## 📊 Trade Example
 
+![Trade Setup](image1.jpg)
 ## ✨ Features
 - Account overview
 - Trade history

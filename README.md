@@ -29,3 +29,5 @@ git clone https://github.com/edrissafi321/project.git
 <p align="center">
   <a href="trade1.mp4">▶ Watch Demo Video</a>
 </p>
+
+اوکی

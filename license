@@ -1,0 +1,14 @@
+---
+
+## 4️⃣ چطور README رو ویرایش کنی؟
+### از موبایل یا وب:
+- روی ✏️ کنار README بزن
+- متن Markdown رو بنویس
+- Commit کن
+
+### از سیستم:
+```bash
+nano README.md
+git add README.md
+git commit -m "update README"
+git push

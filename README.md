@@ -4,11 +4,15 @@
 ![CSS](https://img.shields.io/badge/CSS-3-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
+![Trade Setup](image1.jpg)
+## ✨ Features
+
+
+![Trade Setup](image2.jpg)
+## ✨ Features
 Simple web-based trading account management system.
 ## 📊 Trade Example
 
-![Trade Setup](image1.jpg)
-## ✨ Features
 - Account overview
 - Trade history
 - Responsive design
@@ -19,17 +23,5 @@ git clone https://github.com/edrissafi321/project.git
 
 ---
 
-## 🎥 Demo & Screenshots
-
-### 📸 Screenshots
-<p align="center">
-  <img src="image1.jpg" width="300">
-  <img src="image2.jpg" width="300">
-</p>
-
-### 🎬 Demo Video
-<p align="center">
-  <a href="trade1.mp4">▶ Watch Demo Video</a>
-</p>
 
 اوکی
